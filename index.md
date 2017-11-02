@@ -43,7 +43,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Adam Bates,	University of Illinois at Urbana-Champaign
   - Bo Li, University of California, Berkeley
 
-<!---
+<!-- Markdown cheatsheet
 - Bulleted
 - List
 1. Numbered
@@ -51,8 +51,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
 ## Header 2
-### Header 3
-<!---
+### Header 3 -->
 
 
 
