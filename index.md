@@ -25,12 +25,28 @@ The areas of interest for the workshop includes, but is not limited to, the foll
 
 
 
-### Organizers
+### Technical Program Committee
+  - Sean Smith, Dartmouth College 
+  - Gedare Bloom, Howard University 
+  - Gabriela Ciocarlie, SRI International    
+  - Miroslav Pajic, Duke University
+  - Bryan Ward, MIT Lincoln Laboratory
+  - Dawn Schrader, Cornell University
+  - Daniel Mosse, University of Pittsburgh
+  - Mu Zhang, Cornell University
+  - Siddharth Garg, NYU
+  - Rakesh Kumar,	University of Illinois at Urbana-Champaign
+  - Ramya Raghavendra, IBM Research
+  - Man-Ki Yoon, Yale University
+  - Henry Duwe, Iowa State University
+  - Negin Salajageh, Visa Research
+  - Adam Bates,	University of Illinois at Urbana-Champaign
+  - Bo Li, University of California, Berkeley
 
-Sibin Mohan			University of Illinois at Urbana-Champaign
-Elaine Shi			Cornell University 
 
 
+
+```
 
 ## Header 2
 ### Header 3
@@ -44,7 +60,6 @@ Elaine Shi			Cornell University
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
