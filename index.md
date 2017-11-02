@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec)
+to be co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2017
 
-You can use the [editor on GitHub](https://github.com/mnwrhsn/iotsec/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+The Internet-of-Things (IoT) has taken off in a big way and finds itself embedded in our daily lives – from smart home applications to process control monitoring in manufacturing systems, wearables to healthcare, public utilities to military applications, to name just a few. The surge in interest in smart cities increases the scope and reach of IoT-style applications in a significant manner. These applications generate huge volumes of data, have access to personal and confidential information, monitor and control critical processes and are often accessed/controlled via public networks such as the Internet. Hence, they are prime targets for malicious entities and have little to no security mechanisms in place. In addition, most users of such devices/systems are not cognizant of the privacy issues – leakage of personal information for instance, or external entities being able to retrace/recreate our activities from public data obtained through the use of IoT devices/services. On the other hand, onerous security and privacy mechanisms may render these systems useless for most consumers. Hence, there is a need to develop innovative techniques to improve protections for such systems. This is particularly challenging since many IoT systems are often limited in terms of computation power, memory, battery life, bandwidth, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Hence, the goal of IoTSec will be to bring together experts in various areas (security, privacy, embedded systems, sensor networks, etc. along with domains experts from medicine, manufacturing systems, mobile devices and so on) to study and develop security and (usable) privacy mechanisms for next generation IoT systems.
 
 # Header 1
 ## Header 2
