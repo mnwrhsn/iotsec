@@ -43,20 +43,16 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Adam Bates,	University of Illinois at Urbana-Champaign
   - Bo Li, University of California, Berkeley
 
-!!!
+<!---
 - Bulleted
 - List
-
 1. Numbered
 2. List
-
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ## Header 2
 ### Header 3
-
-!!!
+<!---
 
 
 
