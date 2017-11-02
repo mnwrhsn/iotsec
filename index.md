@@ -1,7 +1,7 @@
 
 ## 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec)
 
-### _to be co-located with the [3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018] (http://conferences.computer.org/IoTDI/)_ 
+### _to be co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018 http://conferences.computer.org/IoTDI/_ 
 
 
 
