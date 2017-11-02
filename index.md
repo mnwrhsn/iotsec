@@ -3,7 +3,7 @@
 
 ### _to be co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018 http://conferences.computer.org/IoTDI/_ 
 
-[I'm an inline-style link](https://www.google.com)
+[3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018](http://conferences.computer.org/IoTDI/)
 
 
 
