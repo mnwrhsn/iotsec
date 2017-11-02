@@ -1,7 +1,7 @@
 
 ## 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec)
 
-### _to be co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2017_ 
+### _to be co-located with the [3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2017] ()_ 
 
 
 
@@ -43,14 +43,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Adam Bates,	University of Illinois at Urbana-Champaign
   - Bo Li, University of California, Berkeley
 
-
-
-
-```
-
-## Header 2
-### Header 3
-
+!!!
 - Bulleted
 - List
 
@@ -60,16 +53,10 @@ The areas of interest for the workshop includes, but is not limited to, the foll
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+## Header 2
+### Header 3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+!!!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mnwrhsn/iotsec/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-```
 
